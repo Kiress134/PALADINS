@@ -1,0 +1,76 @@
+body {
+    background-color: #c9c9c9;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.navbar {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: 3d3d3d;
+    font-family: arial;
+    font-size: 15px;
+}
+
+.nav {
+    float: right;
+    padding: 15px;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 70px;
+    list-style: none;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 25px 10px;
+    color: white;
+        
+}
+
+.logo {
+    float: left;
+    color: white;
+    font-size: 30px;
+    padding: 25px 35px;
+    
+}
+
+ul li:hover{
+    transform: scale(1.1);
+}
+
+.zadlav {
+    color:dimgrey;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+.angel {
+    display: block;
+    margin: auto;
+    
+}
+
+.opis {
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+.osnovi {
+    font-size: 33px;
+    font-family: sans-serif;
+    padding-left: 170px;
+}
+
+.osnovi2 {
+    font-size: 19px;
+    font-family: sans-serif;
+}
